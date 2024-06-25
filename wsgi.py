@@ -1,5 +1,4 @@
-from painter_bot import flask_app
-from config import *
+from painter_bot import *
 
 if __name__ == "__main__":
-    flask_app.run(port=PORT, host=HOST)
+    app.run(port=PORT, host=HOST)
