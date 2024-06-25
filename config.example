@@ -1,0 +1,8 @@
+APP_KEY = ''
+MAIN_HOST = 'https://medsenger.ru'
+PORT = '5040'
+HOST = '127.0.0.1'
+
+URL = 'https://api-key.fusionbrain.ai/'
+API_KEY = ''
+SECRET_KEY = ''
